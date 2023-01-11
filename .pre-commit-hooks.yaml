@@ -1,0 +1,7 @@
+- id: glic
+  name: glic
+  description: "GLic: License header code formatter"
+  entry: glic
+  language: python
+  minimum_pre_commit_version: 2.9.2
+  require_serial: false
